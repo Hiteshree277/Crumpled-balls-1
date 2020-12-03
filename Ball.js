@@ -19,4 +19,4 @@ class Ball{
         circle(0,0,this.radius);
         pop();
     }
-}
+} 
